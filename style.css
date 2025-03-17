@@ -8,7 +8,7 @@ header span{background:url("images/perpro.png") no-repeat transparent;background
 span noscript{visibility:hidden;}
 h1,h2,h3{font-variant-caps:small-caps;}
 section p{text-align:justify;}
-p img{border:1px dashed #000;display:block;margin:1em auto;max-width:100%;padding:1ex;}
+p img{border:1px dashed #000;box-sizing:border-box;display:block;height:auto;margin:1em auto;max-width:100%;padding:1ex;}
 article > div{display:block;}
 #logo{border-radius:20%;box-shadow:0 1px 3px 0 rgba(60,64,67,.3),0 4px 8px 3px rgba(60,64,67,.15);overflow:hidden;vertical-align:middle;}
 #logo,#logo img{height:40px;width:40px;}
